@@ -4,6 +4,15 @@
 
 * **Format:** Text ⟶ Image
 * **Type:** basic formatter
+  
+Sample to convert database text value to images
+  
+| database value | display image |
+| - | - |
+| Jean | <img src="Images/jean.png" width="25" height="25" /> |
+| Laurent  | <img src="Images/laurent.png" width="25" height="25" /> |
+| Vincent  | <img src="Images/vincent.png" width="25" height="25" /> |
+| Eric  | <img src="Images/eric.png" width="25" height="25" /> |
 
 ## How to integrate
 
